@@ -5,17 +5,17 @@
 **调查结果如下**
 >一共收到了128份问卷，其中回答者性别比例如下,基本持平
 
-![1](../Assets/invest/1.png)
+![1](https://raw.githubusercontent.com/SEN-Wanted/Dashboard/master/management-docs/Assets/invest/1.png)
 
  > **回答者年龄集中在19-25岁**，也有一定比例的31-50岁人群。
 **19-25岁人群和本产品的客户年龄定位接近**，故意见较重要
 
-![2](../Assets/invest/2.png)
+![2](https://raw.githubusercontent.com/SEN-Wanted/Dashboard/master/management-docs/Assets/invest/2.png)
 
 * 而回答者对“扫码点餐系统的使用频率”的回答中
 >有53%的回答者为较活跃用户，30%的回答者为潜在用户，16%回答者不使用
 
-![3](../Assets/invest/3.png)
+![3](https://raw.githubusercontent.com/SEN-Wanted/Dashboard/master/management-docs/Assets/invest/3.png)
 
 * 而对“扫码点餐系统的不方便之处”的回答中
 
@@ -24,14 +24,14 @@
 而点餐页面慢这一因素可见回答者对产品使用流畅度较为关心，故在后期要着重优化使用的流畅度
 需要下载APP或者关注公众号这一因素受技术限制，目前只能开发APP移动端，但根据调查，我们可能会在后期开发微信小程序端。
 
-![4](../Assets/invest/4.png)
+![4](https://raw.githubusercontent.com/SEN-Wanted/Dashboard/master/management-docs/Assets/invest/4.png)
 
 * 而关于回答者对“希望扫码点餐还具有的功能”的回答中可见
 >有70%的回答者会关注**APP提供的优惠活动的信息**
 并且有60%的回答者关注**菜品推荐，**
 因此我们计划会在后期对这两个功能做强化
 
-![5](../Assets/invest/5.png)
+![5](https://raw.githubusercontent.com/SEN-Wanted/Dashboard/master/management-docs/Assets/invest/5.png)
 
 ### 值得关注的竞争产品，及其竞争优势
 * **主要的竞争产品**
