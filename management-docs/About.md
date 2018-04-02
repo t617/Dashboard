@@ -1,0 +1,30 @@
+## About
+记录项目开发的详细信息
+### About Project
+>项目Wanted是一款支持多商家的扫码点餐APP
+为用户提供**店铺推荐**，**订单管理**，**扫码点餐**等功能，提高用户的就餐体验
+
+-------
+### Core Artifacts
+#### Team & Division
+
+[团队分工以及职务](https://github.com/SEN-Wanted/Dashboard/blob/master/management-docs/team-profile.md)
+
+#### Documentation
+项目开发文件
+- [竞争调查报告](https://github.com/SEN-Wanted/Dashboard/blob/master/management-docs/Investigation.md)
+
+-------
+### Iterations
+#### Iteration-1
+* Week 1(2018/03/20)
+  >- 开发技术准备
+  >- 任务讨论与分工
+* Week 2(2018/03/27)
+  >- 实现初步的产品原型
+  >- 后端服务器框架搭建
+  >- 前端实现基础页面
+* Week 3(2018/04/03)
+#### Iteration-2
+
+-------
