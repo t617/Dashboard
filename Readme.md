@@ -15,7 +15,7 @@
 * requirement-specification需求规格说明书
   >- usecase-diagram用例图
 * Design
-  >- UI-prototype UI原型文件
+  >- [UI-prototype](https://github.com/SEN-Wanted/Dashboard/tree/master/development-docs/design/UI-prototype) UI原型文件
 
 
 ---------
