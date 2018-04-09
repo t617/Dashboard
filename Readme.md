@@ -10,5 +10,15 @@
 >- [Vision.md](https://github.com/SEN-Wanted/Dashboard/blob/master/management-docs/Vision.md) 项目愿景
 
 ---------
+**development-docs** 项目开发文件
+* coding-style代码规范
+* requirement-specification需求规格说明书
+  >- usecase-diagram用例图
+* Design
+  >- UI-prototype UI原型文件
+
+
+---------
 **meeting-mind-graphs** 会议记录
 > - [2018-03-28会议记录](https://github.com/SEN-Wanted/Dashboard/tree/master/meeting-mind-graphs/2018-03-28)
+
