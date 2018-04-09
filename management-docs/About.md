@@ -13,6 +13,7 @@
 #### Documentation
 项目开发文件
 - [竞争调查报告](https://github.com/SEN-Wanted/Dashboard/blob/master/management-docs/Investigation.md)
+- UI-原型说明
 
 -------
 ### Iterations
