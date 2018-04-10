@@ -1,5 +1,7 @@
 ## Readme
 记录UI原型更新的详细信息
+> UI原型采用墨刀(MockingBot)制作,
+下载UI原型文件后，打开index.html
 ### UI原型
 
 * Week 1(2018/03/27)
