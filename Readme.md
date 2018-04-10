@@ -14,6 +14,7 @@
 * coding-style代码规范
 * requirement-specification需求规格说明书
   >- usecase-diagram用例图
+  >- use cas用例
 * Design
   >- [UI-prototype](https://github.com/SEN-Wanted/Dashboard/tree/master/development-docs/design/UI-prototype) UI原型文件
 
@@ -21,4 +22,8 @@
 ---------
 **meeting-mind-graphs** 会议记录
 > - [2018-03-28会议记录](https://github.com/SEN-Wanted/Dashboard/tree/master/meeting-mind-graphs/2018-03-28)
+> - 2018-04-10会议记录
+--------
+**Tech/Work Report** 技术/开发报告
+>- 15331024-项目工作经验总结
 

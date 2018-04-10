@@ -11,9 +11,14 @@
 [团队分工以及职务](https://github.com/SEN-Wanted/Dashboard/blob/master/management-docs/team-profile.md)
 
 #### Documentation
-项目开发文件
+项目管理文件
 - [竞争调查报告](https://github.com/SEN-Wanted/Dashboard/blob/master/management-docs/Investigation.md)
-- UI-原型说明
+
+项目开发文件
+- UI原型说明
+- 代码规范
+- 需求规格说明
+- 技术/开发报告
 
 -------
 ### Iterations
