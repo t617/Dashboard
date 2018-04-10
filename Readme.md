@@ -13,8 +13,8 @@
 **development-docs** 项目开发文件
 * coding-style代码规范
 * requirement-specification需求规格说明书
-  >- usecase-diagram用例图
-  >- use cas用例
+  >- Usecase-diagram用例图
+  >- Use-case用例
 * Design
   >- [UI-prototype](https://github.com/SEN-Wanted/Dashboard/tree/master/development-docs/design/UI-prototype) UI原型文件
 
