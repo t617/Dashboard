@@ -16,7 +16,7 @@
   >- [BE-Codestyle](https://github.com/SEN-Wanted/Dashboard/blob/master/development-docs/coding-style/BE-codeStyle.md) 后端代码规范
 * requirement-specification 需求规格说明书
   >- [Usecase-diagram](https://github.com/SEN-Wanted/Dashboard/blob/master/development-docs/requirement-specification/use-case-diagram.md) 用例图
-  >- Use-case 用例
+  >- [Use-case](https://github.com/SEN-Wanted/Dashboard/blob/master/development-docs/requirement-specification/use-case.md) 用例
 * Design
   >- [UI-prototype](https://github.com/SEN-Wanted/Dashboard/tree/master/development-docs/design/UI-prototype) UI原型文件
 
