@@ -18,6 +18,8 @@
   >- [Usecase-diagram](https://github.com/SEN-Wanted/Dashboard/blob/master/development-docs/requirement-specification/use-case-diagram.md) 用例图
   >- [Use-case](https://github.com/SEN-Wanted/Dashboard/blob/master/development-docs/requirement-specification/use-case.md) 用例
   >- [Domian-model](https://github.com/SEN-Wanted/Dashboard/blob/master/development-docs/requirement-specification/domian-model.md) 领域模型
+  >- [State-model]() 状态模型
+  >- [System-sequence-diagram]() 功能模型
 * Design
   >- [UI-prototype](https://github.com/SEN-Wanted/Dashboard/tree/master/development-docs/design/UI-prototype) UI原型文件
   >- [Database-design]() 数据库设计
