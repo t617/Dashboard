@@ -8,11 +8,11 @@
 ### Core Artifacts
 #### Team & Division
 
-[团队分工以及职务](management-docs/team-profile.md)
+[团队分工以及职务](team-profile.md)
 
 #### Documentation
 项目管理文件
-- [竞争调查报告](management-docs/Investigation.md)
+- [竞争调查报告](Investigation.md)
 
 项目开发文件
 - UI原型说明
