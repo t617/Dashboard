@@ -4,7 +4,7 @@
 仓库内容索引
 
 **management-docs** 项目管理文件
->- [About.md](https://github.com/SEN-Wanted/Dashboard/blob/master/management-docs/About.md) 项目规划
+>- [About.md](management-docs/About.md) 项目规划
 >- [Team-profile.md](https://github.com/SEN-Wanted/Dashboard/blob/master/management-docs/team-profile.md) 团队组建
 >- [Investigation.md](https://github.com/SEN-Wanted/Dashboard/blob/master/management-docs/Investigation.md) 项目前期调研
 >- [Vision.md](https://github.com/SEN-Wanted/Dashboard/blob/master/management-docs/Vision.md) 项目愿景
