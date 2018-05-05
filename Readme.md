@@ -27,7 +27,7 @@
   
 ---------
 **meeting-mind-graphs** 会议记录
-> - [2018-03-28会议记录](https://github.com/SEN-Wanted/Dashboard/tree/master/meeting-mind-graphs/2018-03-28)
+> - [2018-03-28会议记录](meeting-mind-graphs/2018-03-28)
 
 --------
 **Tech/Work Report** 技术/开发报告
