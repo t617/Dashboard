@@ -38,3 +38,14 @@
 >- [15331041-技术报告](https://blog.csdn.net/N1klausss/article/details/79919750)
 >- [15331278-技术报告](http://t617.cn/blog/2018/04/12/Flask%E5%85%A5%E9%97%A8.html)
 >- [15331277-技术报告](https://blog.csdn.net/m0_38088298/article/details/79901951)
+
+--------
+**Modeling Practice** 建模练习
+>- 小组提供的建模文档
+>- 小组提供的建模答案
+>- 选择的建模文档
+>- 用例图
+>- 活动图
+>- 领域模型
+>- 状态图
+>- 系统顺序图与操作协议
