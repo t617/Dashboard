@@ -42,7 +42,7 @@
 --------
 **Modeling Practice** 建模练习
 * 文档编写
-  >- 小组提供的建模文档
+  >- [小组提供的建模文档](modeling-practice/提供的建模文档/AT应用的说明文档.md)
 * 建模者答案
   >- LeaderXXX-XX小组
 * 本组建模练习
