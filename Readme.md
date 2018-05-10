@@ -22,13 +22,13 @@
   >- [State-model](development-docs/requirement-specification/stage-model.md) 状态模型
   >- [System-sequence-diagram]() 功能模型
 * Design
-  >- [UI-prototype](https://github.com/SEN-Wanted/Dashboard/tree/master/development-docs/design/UI-prototype) UI原型文件
+  >- [UI-prototype](development-docs/design/UI-prototype) UI原型文件
   >- [Database-design](development-docs/design/E-R-model.md) 数据库设计
   >- [API-design]() API设计
   
 ---------
 **meeting-mind-graphs** 会议记录
-> - [2018-03-28会议记录](https://github.com/SEN-Wanted/Dashboard/tree/master/meeting-mind-graphs/2018-03-28)
+> - [2018-03-28会议记录](meeting-mind-graphs/2018-03-28)
 
 --------
 **Tech/Work Report** 技术/开发报告
