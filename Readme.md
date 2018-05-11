@@ -46,7 +46,7 @@
 * 建模者答案
   >- LeaderXXX-XX小组
 * 本组建模练习
-  >- 选择的建模文档
+  >- [小组选择的建模文档](https://jupiter-sysu.github.io/dashboard/10-midterm-practice)
   >- 用例图
   >- 活动图
   >- 领域模型
