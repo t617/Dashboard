@@ -45,7 +45,7 @@
   >- [小组提供的建模文档](modeling-practice/提供的建模文档/AT应用的说明文档.md)
 * 建模者答案
   >- [答题者-15331392](https://zack1005.github.io/2018/05/13/2018-5-13/)
-  >- [答题者-15331019]()
+  >- [答题者-15331019](https://blog.csdn.net/m0_38016385/article/details/80285472)
   >- [答题者-15331022](https://blog.csdn.net/cjl707408282/article/details/80296452)
 * 本组建模练习
   >- [小组选择的建模文档](https://jupiter-sysu.github.io/dashboard/10-midterm-practice)
