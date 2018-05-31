@@ -21,10 +21,12 @@
   >- [Domian-model](development-docs/requirement-specification/domian-model.md) 领域模型
   >- [State-model](development-docs/requirement-specification/stage-model.md) 状态模型
   >- [System-sequence-diagram](development-docs/requirement-specification/system-sequence-diagram.md) 功能模型
+  >- [Supplementary-requirements](development-docs/requirement-specification/requirement-specification) 补充规格说明
 * Design
   >- [UI-prototype](development-docs/design/UI-prototype) UI原型文件
   >- [Database-design](development-docs/design/E-R-model.md) 数据库设计
   >- [API-design](development-docs/design/API-design.md) API设计
+  >- [Software-architecture-document]() 软件架构文档
   
 ---------
 **meeting-mind-graphs** 会议记录
@@ -49,8 +51,3 @@
   >- [答题者-15331022](https://blog.csdn.net/cjl707408282/article/details/80296452)
 * 本组建模练习
   >- [小组选择的建模文档](https://jupiter-sysu.github.io/dashboard/10-midterm-practice)
-  >- 用例图
-  >- 活动图
-  >- 领域模型
-  >- 状态图
-  >- 系统顺序图与操作协议
