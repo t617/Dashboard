@@ -26,7 +26,7 @@
   >- [UI-prototype](development-docs/design/UI-prototype) UI原型文件
   >- [Database-design](development-docs/design/E-R-model.md) 数据库设计
   >- [API-design](development-docs/design/API-design.md) API设计
-  >- [Software-architecture-document]() 软件架构文档
+  >- [Software-architecture-document](development-docs/design/software-architecture-document.md) 软件架构文档
   
 ---------
 **meeting-mind-graphs** 会议记录
