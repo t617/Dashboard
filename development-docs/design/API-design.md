@@ -25,8 +25,7 @@ http请求方式: GET
 }
 ```
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -67,7 +66,6 @@ http请求方式: GET
     <td>isAppOffer</td>
     <td>是否APP专享优惠</td>
   </tr>
-
 </table>  
 
 ### 2.注册接口
@@ -80,8 +78,7 @@ APP端用户进行注册
 **请求说明**  
 http请求方式: GET、POST  
 **参数说明**  
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -94,7 +91,6 @@ http请求方式: GET、POST
     <td>password</td>
     <td>用户注册密码</td>
   </tr>
-
 </table> 
 **返回说明**   
 正确结果：
@@ -113,8 +109,7 @@ http请求方式: GET、POST
 }
 ```
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -127,11 +122,9 @@ http请求方式: GET、POST
     <td>user</td>
     <td>注册成功资源实体</td>
   </tr>
-
 </table> 
 
- <table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
  <tr>
     <th>参数</th>
     <th>说明</th>
@@ -161,7 +154,6 @@ http请求方式: GET、POST
     <td> orderList </td>
     <td>点餐信息</td>
   </tr>
-
 </table> 
  
 返回错误样例
@@ -183,8 +175,7 @@ APP端用户进行登录
 http请求方式: GET、POST  
 **参数说明**  
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -197,7 +188,6 @@ http请求方式: GET、POST
     <td>password</td>
     <td>用户注册密码</td>
   </tr>
-
 </table> 
 
 **返回说明**   
@@ -217,8 +207,7 @@ http请求方式: GET、POST
 }
 ```
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -231,11 +220,9 @@ http请求方式: GET、POST
     <td>user</td>
     <td>登录成功资源实体</td>
   </tr>
-
 </table> 
 
- <table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
  <tr>
     <th>参数</th>
     <th>说明</th>
@@ -265,7 +252,6 @@ http请求方式: GET、POST
     <td> orderList </td>
     <td>点餐信息</td>
   </tr>
-
 </table>
 
 orderList参数：orderlist是由多个Order_detail组成的数据
@@ -282,8 +268,7 @@ Order_detail = {
 ```
 
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -308,7 +293,6 @@ Order_detail = {
     <td>cost </td>
     <td>花费</td>
    </tr>
-
 </table> 
  
 返回错误样例
@@ -373,8 +357,7 @@ http请求方式: GET
     ...
 ```
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -403,7 +386,6 @@ http请求方式: GET
     <td>icon</td>
     <td>餐品图片链接</td>
   </tr>
-
 </table> 
  
 返回错误样例
@@ -426,8 +408,7 @@ APP端调起订单信息参数
 http请求方式: GET  
 **参数说明**  
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -440,7 +421,6 @@ http请求方式: GET
     <td>orderID</td>
     <td>用户订单号</td>
   </tr>
-
 </table>  
  
 **返回说明**   
@@ -461,8 +441,7 @@ order_detail = {
 }
 ```
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -511,7 +490,6 @@ order_detail = {
     <td> orderNumber </td>
     <td>订单号(unique)</td>
   </tr>
-
 </table> 
 
 foodList参数：foodlist是由多个Food_detail组成的数据
@@ -526,8 +504,7 @@ Food_detail = {
 ```
 
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -543,7 +520,6 @@ Food_detail = {
       <tr>
     <td> number </td>
     <td>食品数目</td>
-
 </table> 
 
 ### 6.店铺分类搜索接口
@@ -557,8 +533,7 @@ APP端进行店铺搜索参数
 http请求方式: GET，POST  
 **参数说明**  
  
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -567,7 +542,6 @@ http请求方式: GET，POST
     <td> type </td>
     <td>食品种类</td>
   </tr>
-
 </table> 
 
 **返回说明**   
@@ -588,8 +562,7 @@ http请求方式: GET，POST
 }
 ```
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -634,7 +607,6 @@ http请求方式: GET，POST
     <td>isAppOffer</td>
     <td>是否APP专享优惠</td>
   </tr>
-
 </table>  
 
 ### 7.用户订单详情
@@ -649,8 +621,7 @@ APP端调起单个用户所用订单信息
 http请求方式: GET  
 **参数说明**  
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -659,9 +630,8 @@ http请求方式: GET
     <td>userID</td>
     <td>用户ID</td>
   </tr>
-
 </table>  
- 
+
 **返回说明**   
 返回结果：  
 
@@ -680,8 +650,7 @@ order_detail = {
 }
 ```
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -730,7 +699,6 @@ order_detail = {
     <td> orderNumber </td>
     <td>订单号(unique)</td>
   </tr>
-
 </table> 
 
 orderList参数：orderlist是由多个Order_detail组成的数据
@@ -747,8 +715,7 @@ Order_detail = {
 ```
 
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -773,7 +740,6 @@ Order_detail = {
     <td>cost </td>
     <td>花费</td>
    </tr>
-
 </table> 
 
 ### 8.修改个人信息api
@@ -788,8 +754,7 @@ APP端用户修改个人信息
 http请求方式: POST, GET  
 **参数说明**  
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -810,7 +775,6 @@ http请求方式: POST, GET
     <td>new_password</td>
     <td>用户新密码</td>
   </tr>
-
 </table>  
  
 **返回说明**   
@@ -832,8 +796,7 @@ user_data = {
 }
 ```
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -852,7 +815,7 @@ user_data = {
   </tr>
  </table>
  
- <table border="1">
+<table border="1">
  <tr>
     <th>参数</th>
     <th>说明</th>
@@ -882,7 +845,6 @@ user_data = {
     <td> orderList </td>
     <td>点餐信息</td>
   </tr>
-
 </table> 
 
 orderList参数：orderlist是由多个Order_detail组成的数据
@@ -899,8 +861,7 @@ Order_detail = {
 ```
 
 
-<table border="1", width = "100%", frame = "below", rules="rows">
-
+<table border="1">
   <tr>
     <th>参数</th>
     <th>说明</th>
@@ -925,7 +886,6 @@ Order_detail = {
     <td>cost </td>
     <td>花费</td>
    </tr>
-   
 </table> 
 
 
