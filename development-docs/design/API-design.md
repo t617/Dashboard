@@ -124,6 +124,7 @@ http请求方式: GET、POST
   </tr>
 </table> 
 
+
 <table border="1">
  <tr>
     <th>参数</th>
@@ -222,6 +223,7 @@ http请求方式: GET、POST
   </tr>
 </table> 
 
+
 <table border="1">
  <tr>
     <th>参数</th>
@@ -264,7 +266,6 @@ Order_detail = {
     'date' = '',
     'cost' = ''
 }
-
 ```
 
 
@@ -500,7 +501,6 @@ Food_detail = {
     "price": '',
     "number": ''
 }
-
 ```
 
 
@@ -711,7 +711,6 @@ Order_detail = {
     'date' = '',
     'cost' = ''
 }
-
 ```
 
 
@@ -815,6 +814,7 @@ user_data = {
   </tr>
  </table>
  
+
 <table border="1">
  <tr>
     <th>参数</th>
@@ -857,7 +857,6 @@ Order_detail = {
     'date' = '',
     'cost' = ''
 }
-
 ```
 
 
@@ -887,10 +886,4 @@ Order_detail = {
     <td>花费</td>
    </tr>
 </table> 
-
-
-
-
-
-
 
