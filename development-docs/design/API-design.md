@@ -513,8 +513,9 @@ Food_detail = {
   <tr>
     <td> number </td>
     <td>食品数目</td>
-</table> 
+</table>
 
+-----
 
 #### 6.店铺分类搜索接口
 **应用场景**  
@@ -537,6 +538,8 @@ http请求方式: GET，POST
     <td>食品种类</td>
   </tr>
 </table> 
+
+-----
 
 **返回说明**   
 返回结果：
@@ -602,7 +605,8 @@ http请求方式: GET，POST
 <td>是否APP专享优惠</td>
 </tr>
 </table>  
-
+ 
+-----
 
 #### 7.用户订单详情
 
@@ -626,7 +630,9 @@ http请求方式: GET
     <td>用户ID</td>
   </tr>
 </table>  
- 
+  
+-----
+
 **返回说明**   
 返回结果：  
 
@@ -691,6 +697,8 @@ order_detail = {
     <td>订单号(unique)</td>
   </tr>
 </table> 
+ 
+-----
 
 orderList参数：orderlist是由多个Order_detail组成的数据
 
@@ -732,6 +740,7 @@ Order_detail = {
    </tr>
 </table> 
 
+-----
 
 #### 8.修改个人信息api
 
@@ -768,6 +777,8 @@ http请求方式: POST, GET
   </tr>
 </table>  
  
+-----
+
 **返回说明**   
 返回结果：  
 
@@ -836,6 +847,8 @@ user_data = {
     <td>点餐信息</td>
   </tr>
 </table> 
+ 
+-----
 
 orderList参数：orderlist是由多个Order_detail组成的数据
 
