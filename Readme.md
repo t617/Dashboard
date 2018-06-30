@@ -11,10 +11,11 @@
 
 ---------
 **development-docs** 项目开发文件
-* coding-style 代码规范
+* product-style 产品生产规范
   >- [FE-Codestyle](development-docs/coding-style/FE-codeStyle.md) 前端代码规范
   >- [BE-Codestyle](development-docs/coding-style/BE-codeStyle.md) 后端代码规范
   >- [REST-APIstyle](development-docs/coding-style/Rest-API接口规范.md) REST-API接口规范
+  >- [Mapping-doc](development-docs/coding-style/Mapping-doc.md) 逻辑架构到应用程序映射指南
 * requirement-specification 需求规格说明书
   >- [Usecase-diagram](development-docs/requirement-specification/use-case-diagram.md) 用例图
   >- [Use-case](development-docs/requirement-specification/use-case.md) 用例
