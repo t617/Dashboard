@@ -28,6 +28,7 @@
   >- [Database-design](development-docs/design/E-R-model.md) 数据库设计
   >- [API-design](development-docs/design/API-design.md) API设计
   >- [Software-architecture-document](development-docs/design/software-architecture-document.md) 软件架构文档
+  >- [System-sequence-diagram]() 功能模型
   
 ---------
 **meeting-mind-graphs** 会议记录
