@@ -11,20 +11,24 @@
 
 ---------
 **development-docs** 项目开发文件
-* coding-style 代码规范
+* product-style 产品生产规范
   >- [FE-Codestyle](development-docs/coding-style/FE-codeStyle.md) 前端代码规范
   >- [BE-Codestyle](development-docs/coding-style/BE-codeStyle.md) 后端代码规范
   >- [REST-APIstyle](development-docs/coding-style/Rest-API接口规范.md) REST-API接口规范
+  >- [Mapping-doc](development-docs/coding-style/Mapping-doc.md) 逻辑架构到应用程序映射指南
 * requirement-specification 需求规格说明书
   >- [Usecase-diagram](development-docs/requirement-specification/use-case-diagram.md) 用例图
   >- [Use-case](development-docs/requirement-specification/use-case.md) 用例
   >- [Domian-model](development-docs/requirement-specification/domian-model.md) 领域模型
   >- [State-model](development-docs/requirement-specification/stage-model.md) 状态模型
-  >- [System-sequence-diagram]() 功能模型
+  >- [System-sequence-diagram](development-docs/requirement-specification/system-sequence-diagram.md) 功能模型
+  >- [Supplementary-requirements](development-docs/requirement-specification/supplementary-requirements.md) 补充规格说明
 * Design
   >- [UI-prototype](development-docs/design/UI-prototype) UI原型文件
   >- [Database-design](development-docs/design/E-R-model.md) 数据库设计
-  >- [API-design]() API设计
+  >- [API-design](development-docs/design/API-design.md) API设计
+  >- [Software-architecture-document](development-docs/design/software-architecture-document.md) 软件架构文档
+  >- [System-sequence-diagram]() 功能模型
   
 ---------
 **meeting-mind-graphs** 会议记录
@@ -44,11 +48,17 @@
 * 文档编写
   >- [小组提供的建模文档](modeling-practice/提供的建模文档/AT应用的说明文档.md)
 * 建模者答案
-  >- LeaderXXX-XX小组
+  >- [答题者-15331392](https://zack1005.github.io/2018/05/13/2018-5-13/)
+  >- [答题者-15331019](https://blog.csdn.net/m0_38016385/article/details/80285472)
+  >- [答题者-15331022](https://blog.csdn.net/cjl707408282/article/details/80296452)
 * 本组建模练习
   >- [小组选择的建模文档](https://jupiter-sysu.github.io/dashboard/10-midterm-practice)
-  >- 用例图
-  >- 活动图
-  >- 领域模型
-  >- 状态图
-  >- 系统顺序图与操作协议
+
+  --------
+**Final Report** 期末报告
+>- [15331024-Final Report](https://kake4420.github.io/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1FinalReport/)
+>- [15331032-Final Report](https://cwmaxwell.github.io/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1FinalReport/)
+>- [15331025-Final Report](https://obrcnh.github.io/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E5%A4%A7%E4%BD%9C%E4%B8%9AFinal-Report/)
+>- [15331041-Final Report](https://n1klausss.github.io/2018/06/24/Final-Report.html)
+>- [15331278-Final Report]()
+>- [15331277-Final Report](https://blog.csdn.net/m0_38088298/article/details/80870043)

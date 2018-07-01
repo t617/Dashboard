@@ -1,23 +1,23 @@
 
-# 一、协议
+### 一、协议
 API与用户的通信协议，总是使用HTTPs协议。
 
-# 二、域名
+### 二、域名
 尽量将API部署在专用域名之下。
 如：
 >https://api.example.com
 
-# 三、版本
+### 三、版本
 如果更新迭代涉及到了API版本的更新  
 则将版本号放在HTTP头信息中
 
-# 四、URI规范
+### 四、URI规范
 1.不用大写  
 2.单词间用下划线_  
 3.参数列表要encode  
 4.URI中的名词表示资源集合，使用复数形式。如：如：user、rooms、food_lists  
 
-# 五、请求Request
+### 五、请求Request
 * GET（SELECT）：从服务器取出资源（一项或多项）。
 * POST（CREATE）：在服务器新建一个资源。
 * PUT（UPDATE）：在服务器更新资源（客户端提供改变后的完整资源）。
@@ -35,7 +35,8 @@ API与用户的通信协议，总是使用HTTPs协议。
 * GET /zoos/ID/animals：列出某个指定动物园的所有动物
 * DELETE /zoos/ID/animals/ID：删除某个指定动物园的指定动物
 
-# 六、过滤信息Filtering
+
+### 六、过滤信息Filtering
 如果记录数量很多，服务器不可能都将它们返回给用户。API应该提供参数，过滤返回结果。  
 常见的参数：
 * ?limit=10：指定返回记录的数量
@@ -44,7 +45,7 @@ API与用户的通信协议，总是使用HTTPs协议。
 * ?sortby=name&order=asc：指定返回结果按照哪个属性排序，以及排序顺序。
 * ?animal_type_id=1：指定筛选条件
 
-# 七、状态码
+### 七、状态码
 **成功：**
 * 200 OK - [*]:请求成功并返回实体资源
 * 201 CREATED - [POST]:创建资源成功
@@ -58,7 +59,8 @@ API与用户的通信协议，总是使用HTTPs协议。
 **服务器错误：**
 * 500 INTERNAL SERVER ERROR - [*]:服务器发生错误
 
-# 八、返回结果
+
+### 八、返回结果
 针对不同操作，服务器向用户返回的结果应该符合以下规范。
 * GET /collection：返回资源对象的列表（数组）
 * GET /collection/resource：返回单个资源对象
@@ -67,6 +69,6 @@ API与用户的通信协议，总是使用HTTPs协议。
 * PATCH /collection/resource：返回完整的资源对象
 * DELETE /collection/resource：返回一个空文档
 
-# 九、其他
+### 九、其他
 （1）服务器返回的数据格式，应该尽量使用JSON，避免使用XML。
 
