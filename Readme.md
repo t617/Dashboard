@@ -52,3 +52,12 @@
   >- [答题者-15331022](https://blog.csdn.net/cjl707408282/article/details/80296452)
 * 本组建模练习
   >- [小组选择的建模文档](https://jupiter-sysu.github.io/dashboard/10-midterm-practice)
+
+  --------
+**Final Report** 期末报告
+>- [15331024-Final Report](https://kake4420.github.io/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1FinalReport/)
+>- [15331032-Final Report](https://cwmaxwell.github.io/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1FinalReport/)
+>- [15331025-Final Report](https://obrcnh.github.io/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E5%A4%A7%E4%BD%9C%E4%B8%9AFinal-Report/)
+>- [15331041-Final Report](https://n1klausss.github.io/2018/06/24/Final-Report.html)
+>- [15331278-Final Report]()
+>- [15331277-Final Report](https://blog.csdn.net/m0_38088298/article/details/80870043)
